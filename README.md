@@ -4,6 +4,7 @@ This project was initially created for a client who is an artist. It was meant t
 
 Link to project: https://yourfuturegallery.netlify.app
 
+---
 
 How It's Made:
 
@@ -11,6 +12,7 @@ Tech used: HTML, CSS, JavaScript
 
 Depending on how much artwork the artist has I can adjust the pages and amount of art per page. There is an about me page for the artist to present themselves. Each artwork is clickable and if the artist would like The title and a short description of the piece can be added. The artist can also be messaged by viewers who have questions or wish to buy something. This project is all front end so it was created using html, css, and javascript. 
 
+---
 
 Lessons Learned:
 
